@@ -52,9 +52,10 @@ G5_DescidasGradiente_Fitting_Regularizacao
 │
 └─ codigo/
 │   ├─ Data
-│   ├─ 1.Gradiente Batch.ipynb
-│   ├─ 2.Gradiente Estocástico.ipynb
-│   └─ 3.Gradiente Mini Batch.ipynb
+│   ├─ 1.GRADIENTE_BACH.ipynb
+│   ├─ 2.GRADIENTE_ESTOCASTICO.ipynb
+│   └─ 3.GRADIENTE_MINI_BATCH.ipynb
+│   └─ FITTING_SIMULATION_WITH_REGULARIZATION.ipynb
 ```
 
 

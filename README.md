@@ -51,17 +51,20 @@ G5_DescidasGradiente_Fitting_Regularizacao
 │   └─ documentacao.docx
 │
 └─ codigo/
-    └─ ARQUIVOS_CODIGO (notebooks e scripts organizados e comentados)
+│   ├─ Data
+│   ├─ 1.Gradiente Batch.ipynb
+│   ├─ 2.Gradiente Estocástico.ipynb
+│   └─ 3.Gradiente Mini Batch.ipynb
 ```
 
 
 ## Reconhecimentos e Direitos Autorais
 
-@autor: [Seus Nomes]  
-@contato: [Seus Emails - se quiserem]  
-@data última versão: [Data de Hoje]  
+@autor: [Filipe das Chagas Pinheiro e Guilherme Roberto Matos Silva]  
+@contato: [filipe.pinheiro@discente.ufma.br - matos.guilherme@discente.ufma.br]  
+@data última versão: [13/06/2025]  
 @versão: 1.0  
-@outros repositórios: [URLs - apontem para os seus Gits AQUI]  
+@outros repositórios: [https://github.com/filipe-pinheiro - https://github.com/guilherme-rms-cv]  
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
 ---

@@ -1,3 +1,60 @@
+# 🧠 G5 – Descidas de Gradiente, Overfitting/Underfitting e Regularização
+
+Este repositório contém o material de apoio da apresentação do Grupo 5 na disciplina **Tópicos em Engenharia da Computação II – Fundamentos de Redes Neurais**.  
+Abordamos três eixos fundamentais no treinamento de modelos de aprendizado de máquina:
+
+---
+
+## 📘 Conteúdo Apresentado
+
+### 🔽 1. Descidas de Gradiente
+Estudo comparativo entre os três principais tipos de algoritmos de otimização via gradiente:
+
+- **Batch Gradient Descent**  
+- **Stochastic Gradient Descent (SGD)**  
+- **Mini-Batch Gradient Descent**
+
+Inclui definições, vantagens, desvantagens, e quando cada técnica é mais apropriada.
+
+---
+
+### 📉 2. Overfitting e Underfitting
+Análise dos problemas relacionados à **generalização de modelos**, com foco nos conceitos:
+
+- **Viés e Variância**  
+- Diagnóstico por curvas de erro  
+- Efeitos no desempenho do modelo
+
+---
+
+### 🛡️ 3. Técnicas de Regularização
+Apresentação das principais abordagens para reduzir o overfitting e melhorar a generalização:
+
+- Regularização **L1 (Lasso)** e **L2 (Ridge)**
+- **Dropout**
+- **Early Stopping**
+- Técnicas auxiliares como normalização e data augmentation
+
+---
+
+## 📂 Estrutura do Repositório
+
+```plaintext
+G5_DescidasGradiente_Fitting_Regularizacao
+│
+├─ README.md
+│
+├─ documentos/
+│   ├─ apresentacao.pdf
+│   ├─ apresentacao.pptx
+│   ├─ documentacao.pdf
+│   └─ documentacao.docx
+│
+└─ codigo/
+    └─ ARQUIVOS_CODIGO (notebooks e scripts organizados e comentados)
+```
+
+
 ## Reconhecimentos e Direitos Autorais
 
 @autor: [Seus Nomes]  

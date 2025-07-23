@@ -37,6 +37,18 @@ Apresentação das principais abordagens para reduzir o overfitting e melhorar a
 
 ---
 
+### 📌 4. Atividade
+
+A atividade está disponível neste repositório:
+🔗 [Atv\_G5\_DescidasGradiente\_Fitting\_Regularizacao](https://github.com/Redes-Neurais-2025-1/Atv_G5_DescidasGradiente_Fitting_Regularizacao/tree/main)
+
+**Instruções:**
+
+* Complete o código conforme indicado.
+* Responda às questões disponíveis no arquivo PDF.
+* Siga atentamente as orientações descritas no arquivo `README.md`.
+
+---
 ## 📂 Estrutura do Repositório
 
 ```plaintext
